@@ -2,10 +2,11 @@
 i have just started the adventure with uploading my work to github so this profile and my repositories are still mising a lot of my work
 ***uploading in progress***
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaszwaja)](https://github.com/nicolaszwaja/github-readme-stats)
+
 <!--
 **nicolaszwaja/nicolaszwaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaszwaja)](https://github.com/nicolaszwaja/github-readme-stats)
 
 
 Here are some ideas to get you started:
